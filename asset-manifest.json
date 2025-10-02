@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-taaj/static/css/main.5b3a5dca.css",
+    "main.js": "/portfolio-taaj/static/js/main.229a979e.js",
+    "static/js/453.c1400e6b.chunk.js": "/portfolio-taaj/static/js/453.c1400e6b.chunk.js",
+    "static/media/online-medicine.png": "/portfolio-taaj/static/media/online-medicine.6613de74e6d468029f34.png",
+    "static/media/github-finder.png": "/portfolio-taaj/static/media/github-finder.a3f77e073841ac8d1f80.png",
+    "static/media/Md_Taaj_uddin_MERN_5_Years_Exp.pdf": "/portfolio-taaj/static/media/Md_Taaj_uddin_MERN_5_Years_Exp.3ba0566a8507b26344cf.pdf",
+    "static/media/taaj.jpg": "/portfolio-taaj/static/media/taaj.a457ee067d4ca7eb90c7.jpg",
+    "static/media/one-to-one-chat.png": "/portfolio-taaj/static/media/one-to-one-chat.3d1ab1d826fb3e894058.png",
+    "static/media/loan-calculator.png": "/portfolio-taaj/static/media/loan-calculator.3f60d1a84faed639532a.png",
+    "static/media/todo-list.png": "/portfolio-taaj/static/media/todo-list.0d4d32e5c10a4290a282.png",
+    "index.html": "/portfolio-taaj/index.html",
+    "main.5b3a5dca.css.map": "/portfolio-taaj/static/css/main.5b3a5dca.css.map",
+    "main.229a979e.js.map": "/portfolio-taaj/static/js/main.229a979e.js.map",
+    "453.c1400e6b.chunk.js.map": "/portfolio-taaj/static/js/453.c1400e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3a5dca.css",
+    "static/js/main.229a979e.js"
+  ]
+}
